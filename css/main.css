@@ -1,0 +1,33 @@
+.rating span {
+    background: #ffd42d ;
+    display: inline-block;
+	margin: 0 3px;
+    height: 10px;
+    width: 10px;
+    border-radius: 50%;
+	
+}
+.rating span.transparent {
+    background:#eaeaea ;
+}
+
+div.card-footer {
+    cursor: pointer;
+}
+
+.icon {
+    color: white;
+    font-size: 25px;
+}
+
+
+@media screen and (max-width: 535px) {
+   
+   
+    
+    h6.nom {
+        text-align: center;
+    }
+  }
+
+
